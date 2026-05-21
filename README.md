@@ -878,7 +878,7 @@ Confirm the acceptable range with your ST system administrator.
 
 ### API Version
 
-The Admin REST API documented here applies to **SecureTransport 5.5 and later**.
+The Admin REST API documented here applies to **SecureTransport 5.5-20260430 and later**.
 To confirm the API version on your server:
 ```bash
 curl -k -H "SECURETRANSPORT-API-KEY: <api-key>" \
