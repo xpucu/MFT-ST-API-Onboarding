@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+/swagger/
+/resources/json-examples/
