@@ -1,0 +1,9 @@
+[theme]
+# Axway brand colors
+# Griffin Red as the primary interactive color
+primaryColor      = "#D22630"   # Griffin Red  PMS 1795 C
+backgroundColor   = "#FFFFFF"   # White
+secondaryBackgroundColor = "#FFFFFF"   # White — sidebar / inputs
+textColor         = "#22272B"   # Black Text   PMS 426 C
+font              = "sans serif"
+
